@@ -1,0 +1,7 @@
+name,price,unit,category,stock,brand,expiry_date,origin,weight,discount,is_organic
+apple,$1,each,fruit,100,FruitCo,2024-02-15,USA,150g,5%,True
+ice cream,$23,pack,dessert,50,SweetTreats,2024-03-10,Italy,500g,10%,False
+carrot,$2,each,vegetable,75,FarmFresh,2024-02-28,Local,200g,2%,True
+orange,$1.5,each,fruit,120,CitrusDelight,2024-02-20,Spain,200g,8%,False
+chocolate,$15,bar,dessert,30,ChocoHeaven,2024-04-05,Switzerland,100g,15%,False
+broccoli,$3,bunch,vegetable,60,GreenHarvest,2024-03-01,Mexico,400g,3%,True
